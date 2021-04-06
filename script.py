@@ -1,7 +1,7 @@
 class Script(object):
 
     START_MSG = """<b>Hy {},
-Sorry.. This Bot Can Only Be Used in Movie Club Group!....</b>
+Sorry.. This Bot Can Only Be Used in Tvserieshome!....</b>
 """
 
 
@@ -44,13 +44,13 @@ Sorry.. This Bot Can Only Be Used in Movie Club Group!....</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @MOVIECLUB_CHAT</b>
+<b>© @Tvserieshome</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Dulquer◢ ◤</b>
+    ABOUT_MSG = """⭕️<b>My Name :Tvserieshome◢ ◤</b>
 
-⭕️<b>Creater :</b> @NickxFury    
+⭕️<b>Creater :</b> @Sunisk    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
